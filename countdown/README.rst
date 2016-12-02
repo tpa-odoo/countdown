@@ -1,5 +1,5 @@
-Products Scrap
-==============
+Countdown Widget
+================
 
 This module add functionality to add widget directly to datetime field on website template.
 
